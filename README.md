@@ -1,3 +1,5 @@
+[![](https://images.microbadger.com/badges/image/babim/mysql-backup.svg)](https://microbadger.com/images/babim/mysql-backup "Get your own image badge on microbadger.com")[![](https://images.microbadger.com/badges/version/babim/mysql-backup.svg)](https://microbadger.com/images/babim/mysql-backup "Get your own version badge on microbadger.com")
+
 # Dockerfile for backup MariaDB/Mysql database
 Thanks jerob
 
